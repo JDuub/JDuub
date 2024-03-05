@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jannis 👋</h1>
-<h3 align="center">A Berlin-based event/project manager looking to start a career in Web Development</h3>
+<h3 align="center">A Berlin-based event/project manager looking to start a career in Data Analytics (ML)</h3>
 
 
 - 🔭 I’m currently working on a [Kaggle](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/) competition for predicting the energy behavior of the customers of the Baltic's largest energy company.
